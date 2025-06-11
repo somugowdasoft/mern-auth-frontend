@@ -104,7 +104,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 | Signup Page                 | Login Page                 | Dashboard                      |
 | --------------------------- | -------------------------- | ------------------------------ |
-| ![](assets\Screenshot 2025-06-11 111704.png) | ![](assets\Screenshot 2025-06-11 111717.png) | ![](assets/Screenshot 2025-06-11 111704.png) |
+|  ![Signup](./assets/signup.png) | ![Login](./assets/login.png) | ![Dashboard](./assets/dashboard.png)  |
 
 ---
 
