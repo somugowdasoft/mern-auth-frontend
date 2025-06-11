@@ -104,7 +104,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 | Signup Page                 | Login Page                 | Dashboard                      |
 | --------------------------- | -------------------------- | ------------------------------ |
-|  ![Signup](./assets/signup.png) | ![Login](./assets/login.png) | ![Dashboard](./assets/dashboard.png)  |
+|  ![Signup]([./assets/signup.png](https://github.com/somugowdasoft/mern-auth-frontend/blob/main/src/assets/signup.png)) | ![Login]([./assets/login.png](https://github.com/somugowdasoft/mern-auth-frontend/blob/main/src/assets/login.png)) | ![Dashboard](https://github.com/somugowdasoft/mern-auth-frontend/blob/main/src/assets/dashboard.png)  |
 
 ---
 
